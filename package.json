@@ -1,0 +1,19 @@
+{
+  "name": "webco-community-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WEBCO public website, membership, projects, reporting and admin platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "better-sqlite3": "^11.8.1",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "helmet": "^8.1.0",
+    "morgan": "^1.10.0"
+  }
+}
