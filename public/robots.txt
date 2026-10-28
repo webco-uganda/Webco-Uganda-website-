@@ -1,5 +1,7 @@
-
 User-agent: *
+Allow: /
+
+User-agent: Googlebot
 Allow: /
 
 Sitemap: https://webco-uganda-website-1.onrender.com/sitemap.xml
