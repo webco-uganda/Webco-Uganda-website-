@@ -1,4 +1,8 @@
+
 User-agent: *
 Allow: /
+Disallow: /admin
+Disallow: /member
+Disallow: /api/
 
 Sitemap: https://webco-uganda-website-1.onrender.com/sitemap.xml
